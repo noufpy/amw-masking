@@ -1,3 +1,7 @@
 env/
 directory/
 .DS_Store
+results-u2net/
+results-u2netp/
+masks-u2net/
+masks-u2netp/
